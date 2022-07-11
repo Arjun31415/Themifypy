@@ -23,10 +23,12 @@
 
 <figure>
 <img src="/astronaut-jellyfish.jpg" alt="Astronaut Jellyfish original">
-<figcaption algin="center">Original Image</figcaption>
+<!-- <figcaption algin="center">Original Image</figcaption> -->
 </figure>
+<p align="center">Original Image</p>
 
 <figure>
 <img src="/Amarena-AstronautJellyFish.png" alt="Astronaut Jellyfish Amarena">
-<figcaption algin="center">Themed Image</figcaption>
+<!-- <figcaption algin="center">Themed Image</figcaption> -->
 </figure>
+<p align="center"> Themed Image</p>
