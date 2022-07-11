@@ -24,13 +24,13 @@
 <figure>
 <img src="/astronaut-jellyfish.jpg" alt="Astronaut Jellyfish original">
 
-<center><figcaption>Original Image</figcaption></center>
+<center><figcaption algin="center">Original Image</figcaption></center>
 
 </figure>
 
 <figure>
 <img src="/Amarena-AstronautJellyFish.png" alt="Astronaut Jellyfish Amarena">
 
-<center><figcaption>Themed Image</figcaption></center>
+<center><figcaption algin="center">Themed Image</figcaption></center>
 
 </figure>
